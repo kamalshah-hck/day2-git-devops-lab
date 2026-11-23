@@ -1,2 +1,3 @@
 Application version 1
 Running on Linux
+Docker deployment planned
